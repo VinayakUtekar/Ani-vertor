@@ -20,3 +20,4 @@ Key Features:
 7. User Interface: The application boasts a user-friendly graphical interface developed with Tkinter. It provides a visually appealing and intuitive experience, making it easy for users to navigate and access the project's various features.
 
 The File Formatter project aims to simplify the process of managing different file formats while providing a seamless and efficient file conversion experience. Whether users need to convert images, documents, or multimedia files, this Python-based project with Tkinter as the framework promises a feature-rich and user-friendly solution.
+
